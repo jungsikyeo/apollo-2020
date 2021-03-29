@@ -21,6 +21,7 @@ React, Apollo 및 GraphQL을 이용한 영화 웹 앱
 - See Movie
 - Add to Favourites
 
+## 스크린샷
 ![screenshot](https://github.com/jungsikyeo/apollo-2020/blob/master/public/screenshot_1.JPG)
 
 
